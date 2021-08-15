@@ -1,0 +1,10 @@
+absl-py
+graph-nets
+tensorflow-gpu<2
+numpy==1.19
+dm-sonnet<2
+tensorflow-probability<0.9
+scikit-learn
+dm-tree
+matplotlib
+meshio
