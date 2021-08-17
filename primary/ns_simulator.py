@@ -91,5 +91,5 @@ class NSSimulator(snt.AbstractModule):
         return acceleration
 
 
-def time_dif(input_sequence):
+def time_diff(input_sequence):
     return input_sequence[:, 1:] - input_sequence[:, :-1]
